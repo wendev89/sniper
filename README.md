@@ -9,8 +9,8 @@ Tool untuk melakukan HTTP Flood.
 <br />
 $ git clone https://github.com/wendev89/sniper.git<br />
 $ cd sniper<br />
-$ pip install requirements.txt
-<br />
+$ pip install requirements.txt<br />
+
 Masalah <b>"pip command not found"</b> itu artinya <b> pip </b> belum diinstall
 <br />
 $ apt install python-pip
