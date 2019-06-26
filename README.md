@@ -18,7 +18,7 @@ $ apt install python-pip
 <br />
 <b>RUN</b>
 <br />
-$ python attack.py <IPTARGET> <PORT> <JUMLAH_SERANGAN>
+$ python attack.py IPTARGET PORT JUMLAH_SERANGAN
 <br />
 <br />
 <b>CONTOH</b><br />
