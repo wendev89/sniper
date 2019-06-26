@@ -2,23 +2,22 @@
 
 <b>Apa itu SNIPER?</b>
 <br />
-<br />
 Tool untuk melakukan HTTP Flood.
-
-<b>Install</b>
 <br />
-$ git clone https://github.com/wendev89/sniper.git
-$ cd sniper
-$ pip install requirements.txt
-
-<b>[*]</b>Kalau masalah <b>"pip command not found"</b> itu artinya pip belum diinstall
-
+<br />
+<b>INSTALL</b>
+<br />
+$ git clone https://github.com/wendev89/sniper.git<br />
+$ cd sniper<br />
+$ pip install requirements.txt<br />
+<br />
+Masalah <b>"pip command not found"</b> itu artinya<b>pip</b>belum diinstall
+<br />
 $ apt install python-pip
-
-<b>Run</b>
 <br />
-<textarea cols="100" rows="10">$ python attack.py IPTARGET PORT JUMLAH_SERANGAN</textarea>
+<b>RUN</b>
 <br />
+$ python attack.py IPTARGET PORT JUMLAH_SERANGAN
 <br />
 <br />
 <b>Enjoy..</b>
