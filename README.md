@@ -21,5 +21,3 @@ $ python attack.py IPTARGET PORT JUMLAH_SERANGAN
 <br />
 <br />
 <b>Enjoy..</b>
-
-
