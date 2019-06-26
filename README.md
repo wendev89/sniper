@@ -7,24 +7,22 @@ Tool untuk melakukan HTTP Flood.
 <br />
 <b>INSTALL</b>
 <br />
-<br />
 $ git clone https://github.com/wendev89/sniper.git<br />
 $ cd sniper<br />
-$ pip install requirements.txt<br />
+$ pip install requirements.txt
 <br />
 Masalah <b>"pip command not found"</b> itu artinya <b> pip </b> belum diinstall
-<br />
 <br />
 $ apt install python-pip
 <br />
 <br />
 <b>RUN</b>
 <br />
-<br />
 $ python attack.py <IPTARGET> <PORT> <JUMLAH_SERANGAN>
 <br />
 <br />
 <b>CONTOH</b>
+<br />
 <br />
 $ python attack.py 123.45.67.89 80 3000
 <br />
