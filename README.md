@@ -25,4 +25,3 @@ $ python attack.py IPTARGET PORT JUMLAH_SERANGAN
 $ python attack.py 123.45.67.89 80 3000
 <br />
 <br />
-<b>Enjoy..</b>
