@@ -28,8 +28,7 @@ $ python attack.py 123.45.67.89 80 3000
 <center><b>SCREENSHOT</b></center>
 <br />
 <br />
-<center><br />
-<br />
+<center>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-EA-B7Bt2-Qw/XRPmSMyBg_I/AAAAAAAABOg/OyoXvzSYOAQdxvzPGUtwTmAcCHSQms9oQCLcBGAs/s1600/Screenshot_20190627-041334.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="624" data-original-width="899" height="277" src="https://1.bp.blogspot.com/-EA-B7Bt2-Qw/XRPmSMyBg_I/AAAAAAAABOg/OyoXvzSYOAQdxvzPGUtwTmAcCHSQms9oQCLcBGAs/s400/Screenshot_20190627-041334.png" width="400" /></a></div>
 <br />
