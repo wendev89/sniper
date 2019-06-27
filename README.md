@@ -1,5 +1,9 @@
 # sniper
 
+<center>https://1.bp.blogspot.com/-pyPtgqrIzkM/XRT4zQabldI/AAAAAAAABPI/k4vI8yfRE7k6teydfRG3ylQq954X3lNMwCLcBGAs/s1600/1561654883378-picsay.png</center>
+<br />
+<br />
+<br />
 <b>Apa itu SNIPER?</b>
 <br />
 Tool untuk melakukan HTTP Flood.
