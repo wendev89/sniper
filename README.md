@@ -1,7 +1,7 @@
 # sniper
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-pyPtgqrIzkM/XRT4zQabldI/AAAAAAAABPI/k4vI8yfRE7k6teydfRG3ylQq954X3lNMwCLcBGAs/s1600/1561654883378-picsay.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="1183" height="126" src="https://1.bp.blogspot.com/-pyPtgqrIzkM/XRT4zQabldI/AAAAAAAABPI/k4vI8yfRE7k6teydfRG3ylQq954X3lNMwCLcBGAs/s320/1561654883378-picsay.png" width="320" /></a></div>
+<center><div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-pyPtgqrIzkM/XRT4zQabldI/AAAAAAAABPI/k4vI8yfRE7k6teydfRG3ylQq954X3lNMwCLcBGAs/s1600/1561654883378-picsay.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="467" data-original-width="1183" height="251" src="https://1.bp.blogspot.com/-pyPtgqrIzkM/XRT4zQabldI/AAAAAAAABPI/k4vI8yfRE7k6teydfRG3ylQq954X3lNMwCLcBGAs/s640/1561654883378-picsay.png" width="640" /></a></div>
 <br />
 <br />
 <b>Apa itu SNIPER?</b>
